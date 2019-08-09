@@ -75,9 +75,9 @@ https://github.com/terryum/awesome-deep-learning-papers
 ### Search Engine For any dataset:
 https://toolbox.google.com/datasetsearch
 
-•	https://arxiv.org/corr/home
+*	https://arxiv.org/corr/home
 
-•	https://arxiv.org/list/cs.LG/recent
+*	https://arxiv.org/list/cs.LG/recent
 
 
 ### Youtube:
@@ -110,6 +110,7 @@ https://toolbox.google.com/datasetsearch
 * https://www.oreilly.com/topics/oreilly-data-show-podcast
 * https://www.superdatascience.com/podcast/
 
-## JOIN OUR TELEGRAM CHANNEL FOR MORE RELATED STUFF https://t.me/openml
+## JOIN OUR TELEGRAM CHANNEL FOR MORE RELATED STUFF 
+* https://t.me/openml
 
 
